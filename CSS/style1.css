@@ -34,3 +34,13 @@
     background-color: #FF7500;
     
 }
+  .hero-heading{
+    font-size: 40px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+  }
+  .hero-text{
+    font-size:  16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+  }
