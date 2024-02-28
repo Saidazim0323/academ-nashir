@@ -1,6 +1,8 @@
+/* header */
 .site-header{
   background-color: #FFF;
 }
+/* site-nav */
 .sitenav-list{
   list-style: none;
 
@@ -22,7 +24,7 @@
     color: #FFF;
     text-decoration: none;
 }
-
+    /* hero      */
 .hero{
     background-color: #252420;
     color: #FFF;
@@ -50,12 +52,14 @@
     line-height: 1.5;
     letter-spacing: 0.5px;
   }
+   /* features */
   .features-heading{
     width: 440px;
     font-size: 72px;
     line-height: 1.2;
     letter-spacing: 0.5px;
   }
+    /* feuture */
   .feature{
     width: 340px;
   }
@@ -74,6 +78,7 @@ letter-spacing: 0.5px;
   line-height: 1.5;
   letter-spacing: 0.5px;
  }
+/* promo  */
  .promo{
   background-color: #252420;
   color: #FFF;
@@ -97,6 +102,7 @@ letter-spacing: 0.5px;
   height: 440px;
   object-fit: cover;
  }
+   /* site-footer */
  .site-footer{
   background-color: #f8f8f8;
  }
